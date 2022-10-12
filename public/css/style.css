@@ -1,0 +1,183 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;400&display=swap');
+
+#logo {
+    width: 150px;
+    height: 130px;
+    margin-left: 100px;
+}
+
+body {
+    font-family: 'Poppins', sans-serif;
+    font-size: large;
+    background-color: whitesmoke;
+}
+
+/* barra de navegação*/
+.nav-item {
+    color: black;
+    text-decoration: none;
+    padding: 40px;
+    margin-right: 30px;
+}
+
+.nav-item:hover {
+    color: white;
+    transition: 0.5s;
+}
+
+header .navbar {
+    background: #5dd09e;
+}
+
+/* Principal */
+#texto {
+    background-color: whitesmoke;
+    height: 550px;
+    border-radius: 10px;
+    margin-top: 250px;
+    margin-left: 230px;
+    margin-right: 230px;
+    text-align: justify;
+    display: flex;
+    font-size: large;
+}
+
+p {
+    font-size: 27px;
+    padding-left: 50px;
+    padding-top: 120px;
+}
+
+#daschund {
+    height: 400px;
+    width: 420px;
+    margin-left: 150px;
+    margin-right: 150px;
+    margin-top: 60px;
+}
+
+/* Form Login */
+#textoForm {
+    background-color: whitesmoke;
+    height: 500px;
+    border-radius: 10px;
+    margin-top: 250px;
+    margin-left: 600px;
+    margin-right: 600px;
+    padding-top: 40px;
+    text-align: center;
+    font-size: large;
+}
+
+#input {
+    border: none;
+}
+
+#botao {
+    border: none;
+    width: 120px;
+    height: 40px;
+    border-radius: 10px;
+    background-color: #5dd09e;
+}
+
+/*Banho e tosa*/
+#textoBanhoTosa {
+    background-color: whitesmoke;
+    margin-top: 30px;
+    margin-left: 600px;
+    margin-right: 600px;
+    margin-bottom: 50px;
+    text-align: center;
+    justify-content: center;
+}
+
+#table {
+    text-align: justify;
+    margin-left: 190px;
+}
+
+#th {
+    padding: 5px;
+    background-color: #5dd09e;
+    border: solid 1px;
+    border-color: black;
+    width: 160px;
+}
+
+#td {
+    padding: 5px;
+    border: solid 1px;
+    border-color: black;
+}
+
+#obs {
+    font-size: large;
+    margin-top: -100px;
+    margin-left: -120px;
+}
+
+#textoFormBanho {
+    background-color: whitesmoke;
+    height: 600px;
+    border-radius: 10px;
+    margin-top: 200px;
+    margin-left: 600px;
+    margin-right: 600px;
+    padding-top: 40px;
+    text-align: center;
+    font-size: large;
+}
+
+#radio {
+    margin-left: 30px;
+    margin-top: 20px;
+}
+
+#p {
+    margin-left: -5%;
+}
+
+.alert {
+    margin-left: 80px;
+    margin-top: 25px;
+    margin-bottom: 25px;
+    font-size: medium;
+    width: 550px;
+}
+
+/* Raças */
+#textoRaças {
+    background-color: whitesmoke;
+    height: 550px;
+    border-radius: 10px;
+    padding-left: 50px;
+    padding-top: 30px;
+    padding-bottom: 30px;
+    margin-top: 250px;
+    margin-left: 230px;
+    margin-right: 230px;
+    text-align: justify;
+}
+
+#pastor {
+    height: 400px;
+    margin-left: 800px;
+    margin-top: -400px;
+}
+
+#doberman {
+    height: 400px;
+    margin-left: 550px;
+    margin-top: -370px;
+}
+
+#golden {
+    height: 300px;
+    margin-left: 1050px;
+    margin-top: -360px;
+}
+
+#tabelaProdutos {
+    margin-top: 150px;
+}
